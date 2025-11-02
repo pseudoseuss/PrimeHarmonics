@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from scipy import sparse
 
 # Config
-N = 24000  # Proven; set 48000 in Colab
+N = 24000  # Proven
 P = 48049
 NUM_ZEROS = 100
 s = 0.5
